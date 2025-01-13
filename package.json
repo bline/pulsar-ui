@@ -1,0 +1,17 @@
+{
+  "name": "pulsar-ui",
+  "version": "1.0.0",
+  "description": "Pulsar UI is a lightweight, modular, and responsive UI component library built with Astro and plain CSS. Designed for simplicity and performance, Pulsar UI provides a collection of accessible, reusable components that seamlessly integrate into any Astro project.",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "astro": "^5.1.5"
+  }
+}
